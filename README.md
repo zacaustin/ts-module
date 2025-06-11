@@ -9,6 +9,13 @@ Builds for CJS and ESM
 
 ## Getting Started
 
+### Clone the repository
+
+```sh
+git clone https://github.com/zacaustin/ts-module.git
+cd ts-module
+```
+
 ### Install dependencies
 
 ```sh
