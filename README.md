@@ -1,5 +1,5 @@
 # NodeJS TypeScript Module Template
-Builds for CJS and ESM
+I got tired of setting up the same TypeScript module boilerplate over and over—so I made this template to save myself the hassle. It’s nothing top secret, so I figured I’d share it in case it saves someone else a few minutes (and a bit of sanity) too.
 
 ## Features
 
