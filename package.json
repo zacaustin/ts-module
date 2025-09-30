@@ -13,6 +13,7 @@
     "build:esm:watch": "tsc --project tsconfig.esm.json --watch",
     "build:cjs:watch": "tsc --project tsconfig.cjs.json --watch",
     "build:watch": "concurrently \"npm:build:esm:watch\" \"npm:build:cjs:watch\""
+    ,"prepare": "npm run build"
   },
   "author": "Zac Austin",
   "license": "MIT",
